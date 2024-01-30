@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700");
+
+p {
+
+    text-transform: uppercase;
+    font-weight: 900;
+    margin: 0 0 1rem;
+    padding: 0;
+    line-height: 1;
+    font-family: Raleway;
+    font-size: 5vw;
+    font-weight:700;
+
+}
+
+
+/* body {
+    background-color: 
+} */
+
+/* .background {
+    background-image: url("static/parrish-freeman-vEkzfO1WpnI-unsplash.jpg");
+} */
