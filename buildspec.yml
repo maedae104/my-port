@@ -5,4 +5,6 @@ phases:
       python: 3.11
   build:
     commands:
-      - echo "Build commands go here"
+      - echo Build started on `date`
+      - eb_codebuild_settings:
+          module_name: my-portfolio
